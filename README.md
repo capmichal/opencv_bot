@@ -1,7 +1,7 @@
 ## Python OpenCV Bot 
 
 Python bot created for real-time image processing for video games - currently used for Metin2.
-Application is created for automating certain process - finding items and return them to some NPC.
+Application is created for automating certain process - finding items and returning them to some NPC.
 
 **Tech stack**: Python, OpenCV, Numpy
 
